@@ -1,1 +1,0 @@
-# wd2026-kanataseg-ctr
